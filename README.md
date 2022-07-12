@@ -1,0 +1,1 @@
+# odevler-SQL-pat-ka
